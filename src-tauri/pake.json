@@ -12,6 +12,10 @@
       "dark_mode": false,
       "activation_shortcut": "",
       "disabled_web_shortcuts": false
+      "webview": {
+        "password_autosave": true,
+        "persist_authentication": true
+      }      
     }
   ],
   "user_agent": {
